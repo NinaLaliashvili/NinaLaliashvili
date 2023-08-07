@@ -12,7 +12,7 @@ I'm a passionate developer who loves to explore new technologies and believes in
 
 
 📫 **How to reach me**: 
-- LinkedIn: [https://www.linkedin.com/in/nini-laliashvili-08a97b223/)](https://www.linkedin.com/in/nini-laliashvili-08a97b223/](https://www.linkedin.com/in/nini-laliashvili-08a97b223/)
+- LinkedIn: [https://www.linkedin.com/in/nini-laliashvili-08a97b223/)]
 - Email: [ninilaliashvili8@gmail.com](mailto:ninilaliashvili8@gmail.com)  
 
 ⚡ **Pronouns**: She/Her
