@@ -1,6 +1,4 @@
-### Hi there, I'm Nina 👋
-
-![Header Image]([[URL_TO_A_HEADER_IMAGE](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png))  
+### Hi there, I'm Nina 👋 
 
 I'm a passionate developer who loves to explore new technologies and believes in continuous learning.
 
