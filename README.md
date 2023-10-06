@@ -34,7 +34,7 @@
 <h3>🌟 Spotlight 🌟:</h3>
 
 🎨 **Dynamic Personal Portfolio**: 
-- ![Portfolio Preview](path_to_portfolio_gif.gif)
+  ![Portfolio Preview](path_to_portfolio_gif.gif)
 - 🚀 Dive into the digital showcase of my coding odyssey [right here](link_to_portfolio).
 
 ---
