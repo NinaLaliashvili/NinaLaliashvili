@@ -8,8 +8,6 @@
 ---
 
 <h3>🌸 Developer 💻 | 🚀 Explorer 🌏 | 📚 Lifelong Learner </h3>
-<p style="font-size:24px;"><em>🌌 "In a world of 0's and 1's... I'm chasing the infinite."</em></p>
-<h4>🔥 My Credo: "Code, Create, Repeat!" 🔥</h4>
 
 ---
 
