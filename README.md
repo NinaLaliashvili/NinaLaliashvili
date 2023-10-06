@@ -19,6 +19,10 @@
 <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express" width="90" height="30" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="90" height="30" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" width="90" height="30" />
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" width="110" height="30" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" width="110" height="30" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="100" height="30" />
+
 
 
 ---
