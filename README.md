@@ -2,9 +2,11 @@
 
 ![Nina's Banner](https://path_to_your_banner_image.png)
 
-<h3>👋 Hey there, I'm Nina!</h3>
+<h2>🚀 Hey Universe, I'm Nina! 🌌</h2>
+<h4>Developer 💻 | Explorer 🌏 | Lifelong Learner 📚</h4>
 
-_I'm a passionate developer navigating the vast universe of code. Exploring new technologies, crafting pixel-perfect UIs, and building robust back-ends is what I do. When I'm not coding, you'll find me immersed in a tech podcast or chasing the next big tech trend._
+_"In a world of 0's and 1's... I'm chasing the infinite."_  
+📜 My Credo: "Code, Create, Repeat!"
 
 </div>
 
@@ -12,48 +14,52 @@ _I'm a passionate developer navigating the vast universe of code. Exploring new 
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000?logo=express)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+**Languages and Tools:**  
+<code><img height="30" src="path_to_js_icon.png"></code>
+<code><img height="30" src="path_to_react_icon.png"></code>
+<code><img height="30" src="path_to_node_icon.png"></code>
+<code><img height="30" src="path_to_express_icon.png"></code>
+<code><img height="30" src="path_to_html_icon.png"></code>
+<code><img height="30" src="path_to_css_icon.png"></code>
 
 </div>
 
 ---
 
-### 🔥 Current Projects:
+<div align="center">
 
-| ![Portfolio Preview](path_to_portfolio_gif.gif) |
-|:--:|
-| **Dynamic Personal Portfolio** - Showcasing a responsive and interactive gallery of my web development journey. Dive in [here](link_to_portfolio). |
+![Nina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinaLaliashvili&show_icons=true&theme=radical)
 
----
-
-### 🤝 Let's Collaborate:
-
-Open to collaborations, be it open source or a fun project. If you've got an idea, let's transform it into a digital reality.
+</div>
 
 ---
 
-### 📬 Get in Touch:
+### 🔍 Spotlight:
 
-- LinkedIn: [Nina Laliashvili](https://www.linkedin.com/in/nini-laliashvili-08a97b223/)
-- Email: [ninilaliashvili8@gmail.com](mailto:ninilaliashvili8@gmail.com)
+🖥 **Dynamic Personal Portfolio**: 
+- ![Portfolio Preview](path_to_portfolio_gif.gif)
+- Dive into the digital showcase of my coding odyssey [right here](link_to_portfolio).
 
 ---
 
-### 📚 Musings & Thoughts:
+### 🤖 Current Tech Reads:
 
-- [Journey to React: From Novice to Pro in 30 Days](#)
-- [Unraveling Node.js: Behind the Scenes of Backend Magic](#)
-- [Styling Adventures: When CSS Becomes Art](#)
+- 📘 [Journey to React: From Novice to Pro in 30 Days](#)
+- 📗 [Unraveling Node.js: Behind the Scenes of Backend Magic](#)
+- 📙 [Styling Adventures: When CSS Becomes Art](#)
+
+---
+
+### 💡 Connect & Collaborate:
+
+- 🟦 [LinkedIn](https://www.linkedin.com/in/nini-laliashvili-08a97b223/)
+- 📧 [Email Me](mailto:ninilaliashvili8@gmail.com)
+- 🌐 [Visit My Portfolio](your_portfolio_link)
 
 ---
 
 <div align="center">
 
-⭐️ From [NinaLaliashvili](https://github.com/NinaLaliashvili) with ❤️
+💖 Crafted from scratch by [NinaLaliashvili](https://github.com/NinaLaliashvili)
 
 </div>
