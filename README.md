@@ -1,8 +1,6 @@
 
-
-
 <div align="center" style="background-color: #121212; padding: 20px; border-radius: 15px; color: #ffffff;">
-![Heading](https://img.shields.io/badge/%F0%9F%9A%80-Hey%20Universe,%20I'm%20Nina!%20%F0%9F%8C%8C-ff6f61?style=for-the-badge&labelColor=black)
+
 
 ![Nina's Banner](https://path_to_your_banner_image.png)
 
@@ -26,7 +24,8 @@
 
 ---
 
-![Nina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinaLaliashvili&show_icons=true&theme=radical&bg_color=45,ff6f61,3f5efb)
+![Nina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinaLaliashvili&show_icons=true&theme=dark)
+
 
 ---
 
