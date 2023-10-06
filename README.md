@@ -1,12 +1,12 @@
-<div align="center">
+<div align="center" style="background-color: #121212; padding: 20px; border-radius: 15px; color: #ffffff;">
 
 ![Nina's Banner](https://path_to_your_banner_image.png)
 
-<h2>🚀 Hey Universe, I'm Nina! 🌌</h2>
+<h2 style="color: #ff6f61;">🚀 Hey Universe, I'm Nina! 🌌</h2>
 
-<div style="background-color: #f2f2f2; padding: 10px; border-radius: 15px;">
+<div style="background-color: #1f1f1f; padding: 15px; border-radius: 15px;">
 <h3>Developer 💻 | Explorer 🌏 | Lifelong Learner 📚</h3>
-<p style="font-size:20px; color: #555;"><em>"In a world of 0's and 1's... I'm chasing the infinite."</em></p>
+<p style="font-size:20px; color: #bbb;"><em>"In a world of 0's and 1's... I'm chasing the infinite."</em></p>
 <h4>📜 My Credo: "Code, Create, Repeat!"</h4>
 </div>
 
@@ -22,7 +22,7 @@
 
 ---
 
-![Nina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinaLaliashvili&show_icons=true&theme=radical&bg_color=45,fc466b,3f5efb)
+![Nina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinaLaliashvili&show_icons=true&theme=radical&bg_color=45,ff6f61,3f5efb)
 
 ---
 
