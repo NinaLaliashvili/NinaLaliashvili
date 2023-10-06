@@ -35,15 +35,15 @@
 
 🎨 **Dynamic Personal Portfolio**: 
   ![Portfolio Preview](path_to_portfolio_gif.gif)
-- 🚀 Dive into the digital showcase of my coding odyssey [right here](link_to_portfolio).
+  🚀 Dive into the digital showcase of my coding odyssey [right here](link_to_portfolio).
 
 ---
 
 <h3>📚 Current Tech Reads 📚:</h3>
 
-- 🔖 [Journey to React: From Novice to Pro in 30 Days](#)
-- 🔖 [Unraveling Node.js: Behind the Scenes of Backend Magic](#)
-- 🔖 [Styling Adventures: When CSS Becomes Art](#)
+ 🔖 [Journey to React: From Novice to Pro in 30 Days](#)
+ 🔖 [Unraveling Node.js: Behind the Scenes of Backend Magic](#)
+ 🔖 [Styling Adventures: When CSS Becomes Art](#)
 
 ---
 
