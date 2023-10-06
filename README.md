@@ -1,5 +1,6 @@
 <div align="center">
-![Nina's Banner](https://i.pinimg.com/1200x/f0/8c/c4/f08cc419fdaf3b412adceda18332b943.jpg)
+
+<img src="https://i.pinimg.com/1200x/f0/8c/c4/f08cc419fdaf3b412adceda18332b943.jpg" width="110" height="30" />
 
 <h2>🚀✨ Hey Universe, I'm Nina! 🌌✨</h2>
 
