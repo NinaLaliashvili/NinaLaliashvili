@@ -2,7 +2,7 @@
 
 I'm a passionate developer who loves to explore new technologies and believes in continuous learning.
 
-🌱 **My Skills**: JavaScript, React.js, Node.js, Express, HTML, CSS.
+🌱 **My Skills**: JavaScript, React.js, Node.js, Express.js, HTML, CSS, MongoDB, MySQL, Bootstrap
 
 🔭 **Current Project**: Building a dynamic personal portfolio. 
 
