@@ -1,6 +1,6 @@
 <div align="center">
 
-![Nina's Banner](https://path_to_your_banner_image.png)
+![Nina's Banner]([https://path_to_your_banner_image.png](https://i.pinimg.com/1200x/f0/8c/c4/f08cc419fdaf3b412adceda18332b943.jpg))
 
 <h2>🚀✨ Hey Universe, I'm Nina! 🌌✨</h2>
 
