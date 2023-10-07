@@ -3,8 +3,8 @@
 <img src="https://images.wallpaperscraft.com/image/single/stars_space_galaxy_117958_2560x1080.jpg" width="1110" height="300" />
 
 
-<h2>🚀✨ Hey Universe, I'm Nina! 🌌✨</h2>
-<p>I'm Nina, a passionate developer with a keen interest in exploring new tech horizons. Skilled in JavaScript, React.js, Node.js, and more, I believe in the power of continuous learning. Currently, I'm pouring my creativity into a dynamic personal portfolio. Beyond coding, I'm captivated by the mysteries of the universe and always open to collaborate on exciting ventures. Let's connect and create something amazing together!</p>
+<h2>🚀✨ Hey Universe, I'm Nini! 🌌✨</h2>
+<p>I'm Nini, a passionate developer with a keen interest in exploring new tech horizons. Skilled in JavaScript, React.js, Node.js, and more, I believe in the power of continuous learning. Currently, I'm pouring my creativity into a dynamic personal portfolio. Beyond coding, I'm captivated by the mysteries of the universe and always open to collaborate on exciting ventures. Let's connect and create something amazing together!</p>
 
 ---
 
