@@ -4,7 +4,7 @@
 
 
 <h2>🚀✨ Hey Universe, I'm Nini! 🌌✨</h2>
-<p>I'm Nini, a passionate developer with a keen interest in exploring new tech horizons. Skilled in JavaScript, React.js, Node.js, and more, I believe in the power of continuous learning. Currently, I'm pouring my creativity into a dynamic personal portfolio. Beyond coding, I'm captivated by the mysteries of the universe and always open to collaborate on exciting ventures. Let's connect and create something amazing together!</p>
+<p>I'm Nini, Junior Full Stack Developer who loves making ideas come to life as beautiful and useful websites and apps. My skills include: HTML, CSS, JavaScript, Node.js, MongoDB, and SQL, and I'm good with frameworks like React. I enjoy mixing design with technology to build great web stuff. I'm always happy to meet other pros, share thoughts, and work together on exciting, new digital projects.</p>
 
 ---
 
