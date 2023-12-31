@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://images.wallpaperscraft.com/image/single/stars_space_galaxy_117958_2560x1080.jpg" width="1110" height="300" />
 
 
 <h2>🚀✨ Hey Universe, I'm Nini! 🌌✨</h2>
