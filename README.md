@@ -3,7 +3,7 @@
 
 
 <h2>🚀✨ Hey Universe, I'm Nini! 🌌✨</h2>
-<p>I'm Nini, Junior Full Stack Developer who loves making ideas come to life as beautiful and useful websites and apps. My skills include: HTML, CSS, JavaScript, Node.js, MongoDB, and SQL, and I'm good with frameworks like React. I enjoy mixing design with technology to build great web stuff. I'm always happy to meet other pros, share thoughts, and work together on exciting, new digital projects.</p>
+<p> I'm a Junior Full Stack Developer and I really enjoy creating websites and apps that are both good-looking and useful. I work with HTML, CSS, JavaScript, Node.js, MongoDB, MySQL, and I'm also comfortable using the React framework. I like to combine design with technology to make cool web things. I'm always eager to meet other professionals, exchange ideas, and collaborate on new and exciting digital projects..</p>
 
 ---
 
