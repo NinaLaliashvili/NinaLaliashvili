@@ -35,7 +35,7 @@
 
 🎨 **Dynamic Personal Portfolio**: 
   ![Portfolio Preview](path_to_portfolio_gif.gif)
-  🚀 Dive into the digital showcase of my coding odyssey [http://ninilaliashvili.com/]
+  🚀  [http://ninilaliashvili.com/]
 
 ---
 
@@ -47,7 +47,7 @@
 
 ---
 
-<h3>🔗 Connect & Collaborate 🔗:</h3>
+<h3>🔗 Connect 🔗:</h3>
 
 <a href="https://www.linkedin.com/in/nini-laliashvili-08a97b223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="110" height="35" /></a>
 <a href="mailto:ninilaliashvili8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" width="100" height="35" /></a>
